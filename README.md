@@ -1,5 +1,7 @@
 # fire_crud
 
+__Firebase and Vue.js Crud for Contact List__
+
 ## Project setup
 ```
 npm install
